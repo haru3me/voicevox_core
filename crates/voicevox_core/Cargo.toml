@@ -15,11 +15,11 @@ cfg-if = "1.0.0"
 derive-getters = "0.2.0"
 derive-new = "0.5.9"
 once_cell.workspace = true
-onnxruntime = { git = "https://github.com/haru3me/onnxruntime-rs.git", rev="d569754a494cc0e9fb67f55afcd7e82e214bd8be" }
+onnxruntime = { git = "https://github.com/haru3me/onnxruntime-rs.git", rev="77e4542777f7a0420eb2bb2e6ad67dfecb138716" }
 serde.workspace = true
 serde_json.workspace = true
 thiserror.workspace = true
-open_jtalk = { git = "https://github.com/haru3me/open_jtalk-rs.git", rev="03f8e7e297c48e7114cdd4171086c9a8937fc08a" }
+open_jtalk = { git = "https://github.com/haru3me/open_jtalk-rs.git", rev="6248a5ebde1970a697091302edeab67b4f528944" }
 regex = "1.6.0"
 
 [dev-dependencies]
