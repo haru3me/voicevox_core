@@ -15,7 +15,7 @@ cfg-if = "1.0.0"
 derive-getters = "0.2.0"
 derive-new = "0.5.9"
 once_cell.workspace = true
-onnxruntime = { git = "https://github.com/haru3me/onnxruntime-rs.git", rev="77e4542777f7a0420eb2bb2e6ad67dfecb138716" }
+onnxruntime = { git = "https://github.com/haru3me/onnxruntime-rs.git", rev="b026be51998b89d6087b339d497277e2850ca54d" }
 serde.workspace = true
 serde_json.workspace = true
 thiserror.workspace = true
