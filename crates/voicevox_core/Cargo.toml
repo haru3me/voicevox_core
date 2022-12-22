@@ -19,7 +19,7 @@ onnxruntime = { git = "https://github.com/haru3me/onnxruntime-rs.git", rev="77e4
 serde.workspace = true
 serde_json.workspace = true
 thiserror.workspace = true
-open_jtalk = { git = "https://github.com/haru3me/open_jtalk-rs.git", rev="34f0e8d9b105e7554addb4bbb1541fe93e456763" }
+open_jtalk = { git = "https://github.com/haru3me/open_jtalk-rs.git", rev="da209db4648874a8b81e0dd2e8d67f8b1a748a56" }
 regex = "1.6.0"
 
 [dev-dependencies]
