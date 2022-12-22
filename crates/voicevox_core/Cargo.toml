@@ -15,11 +15,11 @@ cfg-if = "1.0.0"
 derive-getters = "0.2.0"
 derive-new = "0.5.9"
 once_cell.workspace = true
-onnxruntime = { git = "https://github.com/VOICEVOX/onnxruntime-rs.git", rev="bee215aaf6d5e346d96e0724acd02a51f612a72e" }
+onnxruntime = { git = "https://github.com/haru3me/onnxruntime-rs.git", rev="d569754a494cc0e9fb67f55afcd7e82e214bd8be" }
 serde.workspace = true
 serde_json.workspace = true
 thiserror.workspace = true
-open_jtalk = { git = "https://github.com/VOICEVOX/open_jtalk-rs.git", rev="c77112b470874a6a963426ed6c2fb21f12394a78" }
+open_jtalk = { git = "https://github.com/haru3me/open_jtalk-rs.git", rev="03f8e7e297c48e7114cdd4171086c9a8937fc08a" }
 regex = "1.6.0"
 
 [dev-dependencies]
